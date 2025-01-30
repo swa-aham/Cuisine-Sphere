@@ -1,0 +1,112 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vrutik2809",
+      "name": "Vrutik Prajapati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74986666?v=4",
+      "profile": "https://github.com/vrutik2809",
+      "contributions": [
+        "projectManagement",
+        "code",
+        "infra",
+        "maintenance",
+        "test"
+      ]
+    },
+    {
+      "login": "harshb0310",
+      "name": "harshb0310",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77343146?v=4",
+      "profile": "https://github.com/harshb0310",
+      "contributions": [
+        "code",
+        "maintenance",
+        "design"
+      ]
+    },
+    {
+      "login": "hdt003",
+      "name": "Harshal Thakor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95112264?v=4",
+      "profile": "https://github.com/hdt003",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "Nishadh4014",
+      "name": "Nishadh4014",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74643042?v=4",
+      "profile": "https://github.com/Nishadh4014",
+      "contributions": [
+        "code",
+        "ideas",
+        "design",
+        "test"
+      ]
+    },
+    {
+      "login": "Shreyansh-Khemesara",
+      "name": "Shreyansh Khemesara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77277744?v=4",
+      "profile": "https://github.com/Shreyansh-Khemesara",
+      "contributions": [
+        "code",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "pulkit87",
+      "name": "pulkit87",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124185429?v=4",
+      "profile": "https://github.com/pulkit87",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "krunal-78",
+      "name": "krunal-78",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77279344?v=4",
+      "profile": "https://github.com/krunal-78",
+      "contributions": [
+        "code",
+        "ideas",
+        "data",
+        "test"
+      ]
+    },
+    {
+      "login": "MrAchiever",
+      "name": "Soham Mandaviya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101919439?v=4",
+      "profile": "https://www.linkedin.com/in/soham-mandaviya-05a0b3223/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DhruvBar",
+      "name": "Dhruv Baraiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124247747?v=4",
+      "profile": "https://github.com/DhruvBar",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "IT314_project_14",
+  "projectOwner": "vrutik2809",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
